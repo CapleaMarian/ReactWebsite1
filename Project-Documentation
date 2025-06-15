@@ -1,0 +1,27 @@
+🎬 Movie App – React + TMDB API
+This is a web application built with React that allows users to search for movies and manage a list of their favorites. 
+The app fetches movie data from The Movie Database (TMDB) API, providing real-time search functionality and an intuitive user interface.
+
+
+🚀 Features
+Search Movies: Users can search for movies by title, with results dynamically fetched from the TMDB API.
+
+Favorites List: Users can add or remove movies from their personal favorites list, which is managed locally within the app.
+
+Routing: Navigation between pages (Home, Favorites, Search) is handled using React Router.
+
+Global State Management: The app uses React Context API to manage the favorites list and share state across components.
+
+React Hooks: Functional components make use of useState and useEffect to handle local state and side effects like API calls.
+
+
+🛠️ Technologies Used
+React (Functional Components)
+
+React Hooks (useState, useEffect)
+
+React Context API
+
+React Router
+
+TMDB API
